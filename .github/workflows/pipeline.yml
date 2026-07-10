@@ -8,3 +8,4 @@ jobs:
       - run: echo "Pipeline running"
       - run: sleep 10
       - run: echo "Pipeline complete"
+      - run: echo "Deploying application... "
